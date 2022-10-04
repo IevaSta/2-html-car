@@ -8,7 +8,7 @@ Site published at: https://github.com/IevaSta/2-html-car
 
 Design created using this source:
 
-- https://i.pinimg.com/564x/88/1d/d4/881dd4bc445b6ea0077100738ee4015e.jpg
+- https://i.pinimg.com/564x/84/54/c3/8454c36dd72a1c8c74148a9203ff90fd.jpg
 
 ## Project features
 
